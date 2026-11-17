@@ -29,7 +29,7 @@
 
 ### IoT / OT & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,docker,git,github,vscode&theme=dark" alt="IoT and Developer Tools" />
+  <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode&theme=dark" alt="IoT and Developer Tools" />
 </p>
 
 ---
