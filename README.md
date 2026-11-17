@@ -2,8 +2,8 @@
 
 # Thành Danh
 
-**Computer Networks & IoT @ Eastern International University (EIU)**  
-Ho Chi Minh City, Vietnam · IoT / OT & AI
+**AIoT – Artificial Intelligence of Things @ Eastern International University (EIU)**  
+Ho Chi Minh City, Vietnam
 
 <p>
   <a href="mailto:chauthanhdanh998@gmail.com"><img src="https://img.shields.io/badge/chauthanhdanh998@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
@@ -20,7 +20,7 @@ Ho Chi Minh City, Vietnam · IoT / OT & AI
     <td width="50%" valign="top">
       <h3>Profile &amp; Focus</h3>
       <ul>
-        <li><strong>Major:</strong> Computer Networks &amp; IoT (EIU)</li>
+        <li><strong>Major:</strong> AIoT – Artificial Intelligence of Things (EIU)</li>
         <li><strong>Focus:</strong> IoT / OT systems, embedded telemetry &amp; AI integration</li>
         <li><strong>Location:</strong> Ho Chi Minh City, Vietnam</li>
       </ul>
