@@ -60,6 +60,7 @@ Ho Chi Minh City, Vietnam · IoT / OT & AI
 | Project | Stack | Overview |
 | :--- | :--- | :--- |
 | [`smart-kitchen-guard`](https://github.com/Okazane/smart-kitchen-guard) | `ESP32 (C/C++) · Node.js · Express · SQLite · Telegram · Gemini` | IoT gas &amp; fire safety system with MQ-2 MA10 filtering, dual-relay latch, live dashboard, and AI safety advisor |
+| [`english-learning-app`](https://github.com/Okazane/english-learning-app) | `JavaScript · HTML/CSS · PWA · Web Speech API` | 30-day A1 to B1 English grammar &amp; vocabulary daily workbook with 422 flashcards, 1,200 exercises, and Hallmark editorial UI |
 | [`douyin-tiktok-python-tool`](https://github.com/Okazane/douyin-tiktok-python-tool) | `Python · Whisper · Gemini · EasyOCR · VieNeu TTS · FFmpeg` | 7-step video localization pipeline: speech transcription, context translation, Vietnamese dubbing, subtitles &amp; 1080×1920 render |
 | [`social-photo-optimizer`](https://github.com/Okazane/social-photo-optimizer) | `Next.js · React · TypeScript · Tailwind CSS · Sharp` | Social media image optimizer &amp; PWA with batch queue, platform presets, comparison viewer, and ZIP export |
 | [`spy-game`](https://github.com/Okazane/spy-game) | `Vite · React · TypeScript · Tailwind CSS · Zustand · Motion` | Pass-and-play social deduction party game (*Ai là Gián Điệp?*) for 3–15 players with hold-to-reveal cards &amp; PWA support |
