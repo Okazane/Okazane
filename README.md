@@ -9,6 +9,7 @@
 
 ## 📫 How to reach me
 
+[![Email](https://img.shields.io/badge/Gmail-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:chauthanhdanh998@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-0D1117?style=flat-square&logo=facebook&logoColor=1877F2)](https://www.facebook.com/Okazennn)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/Okazane)
 
