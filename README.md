@@ -21,7 +21,7 @@ Ho Chi Minh City, Vietnam · IoT / OT & AI
       <h3>Profile &amp; Focus</h3>
       <ul>
         <li><strong>Major:</strong> Computer Networks &amp; IoT (EIU)</li>
-        <li><strong>Focus:</strong> IoT / OT systems, networking &amp; AI integration</li>
+        <li><strong>Focus:</strong> IoT / OT systems, embedded telemetry &amp; AI integration</li>
         <li><strong>Location:</strong> Ho Chi Minh City, Vietnam</li>
       </ul>
       <p><strong>Primary Languages</strong></p>
@@ -32,13 +32,15 @@ Ho Chi Minh City, Vietnam · IoT / OT & AI
     </td>
     <td width="50%" valign="top">
       <h3>Frameworks &amp; Tools</h3>
-      <p><strong>Web &amp; Runtime</strong></p>
+      <p><strong>Web, Data &amp; Runtime</strong></p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
         <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" />
         <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
         <img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=44A8E0" alt="SQLite" />
       </p>
       <p><strong>IoT &amp; Workflow</strong></p>
       <p>
@@ -57,7 +59,7 @@ Ho Chi Minh City, Vietnam · IoT / OT & AI
 
 | Project | Stack | Overview |
 | :--- | :--- | :--- |
-| [`smart-kitchen-guard`](https://github.com/Okazane/smart-kitchen-guard) | `C/C++ · Node.js · SQLite · AI` | IoT kitchen gas &amp; fire safety system with ESP32, dashboard &amp; Telegram bot |
-| [`douyin-tiktok-python-tool`](https://github.com/Okazane/douyin-tiktok-python-tool) | `Python · OCR · VieNeu TTS` | Automated TikTok &amp; Douyin video processing pipeline |
-| [`social-photo-optimizer`](https://github.com/Okazane/social-photo-optimizer) | `Next.js · React · TypeScript` | Web app for social photo optimization |
-| [`spy-game`](https://github.com/Okazane/spy-game) | `Vite · React · TypeScript` | Multiplayer Spy Game web application |
+| [`smart-kitchen-guard`](https://github.com/Okazane/smart-kitchen-guard) | `ESP32 (C/C++) · Node.js · Express · SQLite · Telegram · Gemini` | IoT gas &amp; fire safety system with MQ-2 MA10 filtering, dual-relay latch, live dashboard, and AI safety advisor |
+| [`douyin-tiktok-python-tool`](https://github.com/Okazane/douyin-tiktok-python-tool) | `Python · Whisper · Gemini · EasyOCR · VieNeu TTS · FFmpeg` | 7-step video localization pipeline: speech transcription, context translation, Vietnamese dubbing, subtitles &amp; 1080×1920 render |
+| [`social-photo-optimizer`](https://github.com/Okazane/social-photo-optimizer) | `Next.js · React · TypeScript · Tailwind CSS · Sharp` | Social media image optimizer &amp; PWA with batch queue, platform presets, comparison viewer, and ZIP export |
+| [`spy-game`](https://github.com/Okazane/spy-game) | `Vite · React · TypeScript · Tailwind CSS · Zustand · Motion` | Pass-and-play social deduction party game (*Ai là Gián Điệp?*) for 3–15 players with hold-to-reveal cards &amp; PWA support |
