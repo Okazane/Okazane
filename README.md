@@ -57,6 +57,7 @@ Ho Chi Minh City, Vietnam · IoT / OT & AI
 
 | Project | Stack | Overview |
 | :--- | :--- | :--- |
+| [`smart-kitchen-guard`](https://github.com/Okazane/smart-kitchen-guard) | `C/C++ · Node.js · SQLite · AI` | IoT kitchen gas &amp; fire safety system with ESP32, dashboard &amp; Telegram bot |
 | [`douyin-tiktok-python-tool`](https://github.com/Okazane/douyin-tiktok-python-tool) | `Python · OCR · VieNeu TTS` | Automated TikTok &amp; Douyin video processing pipeline |
 | [`social-photo-optimizer`](https://github.com/Okazane/social-photo-optimizer) | `Next.js · React · TypeScript` | Web app for social photo optimization |
 | [`spy-game`](https://github.com/Okazane/spy-game) | `Vite · React · TypeScript` | Multiplayer Spy Game web application |
