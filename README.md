@@ -27,7 +27,9 @@ Ho Chi Minh City, Vietnam
       <p><strong>Primary Languages</strong></p>
       <p>
         <img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=A8B9CC" alt="C" />
+        <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
         <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -59,8 +61,9 @@ Ho Chi Minh City, Vietnam
 
 | Project | Stack | Overview |
 | :--- | :--- | :--- |
+| [`spy-game`](https://github.com/Okazane/spy-game) | `Vite · React · TypeScript · Tailwind CSS · Zustand · Motion` | Pass-and-play social deduction party game (*Ai Là Gián Điệp?*) for 3–15 players with Risograph playing cards, 3D hold-to-reveal, Web Audio foley, 270 Vietnamese keyword pairs &amp; single-screen PWA ([Live](https://spy-game-virid-nine.vercel.app)) |
+| [`slide-pdf-compressor`](https://github.com/Okazane/slide-pdf-compressor) | `Python · FastAPI · pypdf · pypdfium2 · Pillow · python-pptx` | Smart target-MB compressor &amp; `.ZIP` image/slide extractor for PDF and PowerPoint (`.pptx`/`.ppt`) with flatten/vector PDF modes and streaming uploads |
+| [`english-learning-app`](https://github.com/Okazane/english-learning-app) | `JavaScript · HTML/CSS · PWA · Web Speech API` | 180-day A1 to B2 English grammar &amp; vocabulary daily workbook across 6 CEFR stages with interactive exercises, audio playback, Google Sheets sync &amp; offline PWA ([Live](https://english-learning-app-virid-seven.vercel.app)) |
 | [`smart-kitchen-guard`](https://github.com/Okazane/smart-kitchen-guard) | `ESP32 (C/C++) · Node.js · Express · SQLite · Telegram · Gemini` | IoT gas &amp; fire safety system with MQ-2 MA10 filtering, dual-relay latch, live dashboard, and AI safety advisor |
-| [`english-learning-app`](https://github.com/Okazane/english-learning-app) | `JavaScript · HTML/CSS · PWA · Web Speech API` | 30-day A1 to B1 English grammar &amp; vocabulary daily workbook with 422 flashcards, 1,200 exercises, and Hallmark editorial UI |
-| [`douyin-tiktok-python-tool`](https://github.com/Okazane/douyin-tiktok-python-tool) | `Python · Whisper · Gemini · EasyOCR · VieNeu TTS · FFmpeg` | 7-step video localization pipeline: speech transcription, context translation, Vietnamese dubbing, subtitles &amp; 1080×1920 render |
+| [`douyin-tiktok-python-tool`](https://github.com/Okazane/douyin-tiktok-python-tool) | `Python · Whisper · Gemini · MeloTTS · FFmpeg` | 7-step video localization pipeline: speech transcription, context translation, Vietnamese TTS dubbing, subtitles &amp; 1080×1920 render |
 | [`social-photo-optimizer`](https://github.com/Okazane/social-photo-optimizer) | `Next.js · React · TypeScript · Tailwind CSS · Sharp` | Social media image optimizer &amp; PWA with batch queue, platform presets, comparison viewer, and ZIP export |
-| [`spy-game`](https://github.com/Okazane/spy-game) | `Vite · React · TypeScript · Tailwind CSS · Zustand · Motion` | Pass-and-play social deduction party game (*Ai là Gián Điệp?*) for 3–15 players with hold-to-reveal cards &amp; PWA support |
